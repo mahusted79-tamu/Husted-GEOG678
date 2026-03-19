@@ -1,1 +1,1 @@
-Homework Week 6 Placeholder
+Homework Week 6

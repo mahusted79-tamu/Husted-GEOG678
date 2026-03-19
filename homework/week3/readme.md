@@ -1,1 +1,1 @@
-Homework Week 3 Placeholder
+Homework Week 3
