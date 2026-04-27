@@ -1,0 +1,61 @@
+
+.tagline {
+    margin: 5px 0 0 0;
+    font-weight: 600;
+    color: var(--accent);
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333333;
+}
+
+.profile-pic {
+    width: 150px;
+    float: right;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+h1, h2{
+    color: #004a99;
+}
+
+#Work-Experience h3 {
+    color: #2882ad;
+}
+
+h2 {
+    border-bottom: 1px solid #004a99;
+    margin-top: 30px;
+}
+
+a {
+    color: #004a99;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.shadowbox {
+    width: 400px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15), 0 6px 6px rgba(0, 0, 0, 0.1);
+}
